@@ -17,22 +17,22 @@ https://www.cnblogs.com/FounDerSquare/p/12130905.html
 
 | **PSP2.1**                                 | **Personal Software Process  Stages** | **预估耗时**  **（分钟）** | **实际耗时**  **（分钟）** |
 | ------------------------------------------ | ------------------------------------- | -------------------------- | -------------------------- |
-| **Planning**                               | 计划                                  | 30                         |                            |
-| l **Estimate**                             | 估计任务需要时间                      | 30                         |                            |
-| **Development**                            | 开发                                  | 2820                       |                            |
-| l **Analysis**                             | 需求分析（与技术学习）                | 60                         |                            |
-| l **Design Spec**                          | 生成设计文档                          | 60                         |                            |
-| l **Design Review**                        | 设计复审（同行评审）                  | 180                        |                            |
-| l **Coding Standard**                      | 代码规范                              | 30                         |                            |
-| l **Design**                               | 具体设计                              | 120                        |                            |
-| l **Coding**                               | 具体编码                              | 1260                       |                            |
-| l **Code Review**                          | 代码复审                              | 90                         |                            |
-| l **Test**                                 | 测试                                  | 1020                       |                            |
-| **Report**                                 | 报告                                  | 300                        |                            |
-| l **Test Report**                          | 测试报告                              | 120                        |                            |
-| l **Size Measurement**                     | 计算工作量                            | 60                         |                            |
-| l **Postmortem& process improvement plan** | 事后总结并提出改进计划                | 120                        |                            |
-|                                            | 合计                                  | 3150                       |                            |
+| **Planning**                               | 计划                                  | 30                         | 30                         |
+| l **Estimate**                             | 估计任务需要时间                      | 30                         | 30                         |
+| **Development**                            | 开发                                  | 2820                       | 3480                       |
+| l **Analysis**                             | 需求分析（与技术学习）                | 60                         | 120                        |
+| l **Design Spec**                          | 生成设计文档                          | 60                         | 120                        |
+| l **Design Review**                        | 设计复审（同行评审）                  | 180                        | 120                        |
+| l **Coding Standard**                      | 代码规范                              | 30                         | 60                         |
+| l **Design**                               | 具体设计                              | 120                        | 180                        |
+| l **Coding**                               | 具体编码                              | 1260                       | 1800                       |
+| l **Code Review**                          | 代码复审                              | 90                         | 60                         |
+| l **Test**                                 | 测试                                  | 1020                       | 1020                       |
+| **Report**                                 | 报告                                  | 300                        | 150                        |
+| l **Test Report**                          | 测试报告                              | 120                        | 60                         |
+| l **Size Measurement**                     | 计算工作量                            | 60                         | 30                         |
+| l **Postmortem& process improvement plan** | 事后总结并提出改进计划                | 120                        | 60                         |
+|                                            | 合计                                  | 3150                       | 3660                       |
 
 ##### 三、解题思路描述
 
